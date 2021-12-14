@@ -4,17 +4,6 @@
     box-sizing: border-box;
     outline: none;
 }
-:root {
-    --font1: font-family: 'Oswald';
-    --font2: font-family: 'Amiri', serif;
-    --font3: font-family: 'Roboto Condensed', sans-serif;
-    --size2: 19px;
-    --size1: 48px;
-    --line-height1: 59px;
-    --color2: rgb(99, 97, 97);
-    --size3: 17px;
-    --size4: 15px;
-}
 html, body{width: 100%;}
 .banner_top{
     background: url(../img/backgroud1.jpg) top center;
